@@ -18,18 +18,18 @@ const AboutMe = ({ sectionsRefs }) => {
                         <div className="about-me-img">
                             <img src={profileImage} title="" alt="" />
                             <div className="nav social-icon">
-                                <a href="https://www.facebook.com/profile.php?id=61551472067645" target="_blank"><FaFacebook /></a>
-                                <a href="https://twitter.com/surajkumar1999_" target="_blank"><FaTwitter /></a>
-                                <a href="https://www.instagram.com/er.surajkumar1999_" target="_blank"><FaInstagram /></a>
-                                <a href="https://www.linkedin.com/in/er-suraj-kumar-69882a292" target="_blank"><FaLinkedinIn /></a>
-                                <a href="https://join.skype.com/invite/u1meLHjiUpMe" target="_blank"><FaSkype /></a>
-                                <a href="https://github.com/ersurajkumar1999" target="_blank"><FaGithub /></a>
+                                <a href="https://www.facebook.com/profile.php?id=61561559271304" target="_blank"><FaFacebook /></a>
+                                <a href="https://x.com/erprakash1999" target="_blank"><FaTwitter /></a>
+                                <a href="https://www.instagram.com/erchandraprakash1999" target="_blank"><FaInstagram /></a>
+                                <a href="https://www.linkedin.com/in/er-chandra-prakash-aa2257315" target="_blank"><FaLinkedinIn /></a>
+                                {/* <a href="https://join.skype.com/invite/u1meLHjiUpMe" target="_blank"><FaSkype /></a> */}
+                                <a href="https://github.com/erchandraprakash1999" target="_blank"><FaGithub /></a>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <div className="about-me ps-lg-5">
-                            <h4>I AM Suraj Kumar</h4>
+                            <h4>I AM Chandra Prakash</h4>
                             <h6>A Lead <span className="text-theme">Full Stack &amp; Mern Stack</span> Developer based in <span className="text-theme">INDIA</span></h6>
                             <p>As a Creative Software Developer, I combine my technical expertise with a deep understanding of design principles to create engaging digital solutions. My services include:</p>
                             <div className="row about-list">
@@ -58,7 +58,7 @@ const AboutMe = ({ sectionsRefs }) => {
                                 <div className="col-md-6">
                                     <div className="media">
                                         <label>E-mail</label>
-                                        <p>er.surajkumar1999@gmail.com</p>
+                                        <p>er.chandraprakash1999@gmail.com</p>
                                     </div>
                                     <div className="media">
                                         <label>Phone</label>
@@ -66,7 +66,7 @@ const AboutMe = ({ sectionsRefs }) => {
                                     </div>
                                     <div className="media">
                                         <label>Skype</label>
-                                        <p>ersurajkumar1999</p>
+                                        <p>erchandraprakash1999</p>
                                     </div>
                                     <div className="media">
                                         <label>Experience</label>

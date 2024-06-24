@@ -22,7 +22,7 @@ const Header = ({ activeSection = 0, scrollToSection }) => {
             <nav className="navbar header-nav header-white header-transparent navbar-expand-lg one-page-nav">
                 <div className="container">
                     <Link className="navbar-brand" to={'/'}>
-                        <h5 className={isDark ? 'text-white' : ''}>Er Suraj Kumar</h5>
+                        <h5 className={isDark ? 'text-white' : ''}>Er Chandra Prakash</h5>
                     </Link>
                     <Toggle
                         checked={Boolean(isDark)}

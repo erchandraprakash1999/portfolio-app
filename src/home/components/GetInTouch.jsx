@@ -34,7 +34,7 @@ const GetInTouch = ({sectionsRefs}) => {
                                 </div>
                                 <div className="ps-3">
                                     <h6>mail</h6>
-                                    <p>er.surajkumar1999@gmail.com<br /> 24/7, Monday to Sunday</p>
+                                    <p>er.chandraprakash1999@gmail.com<br /> 24/7, Monday to Sunday</p>
                                 </div>
                             </div>
                             <div className="contact-name-01">
