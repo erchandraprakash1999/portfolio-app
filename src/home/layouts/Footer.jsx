@@ -10,12 +10,12 @@ const Footer = () => {
                 <div className="row align-items-center">
                     <div className="col-md-6 py-2">
                         <div className="nav justify-content-center justify-content-md-start">
-                            <a href="https://www.facebook.com/profile.php?id=61551472067645" target="_blank"><FaFacebook /></a>
-                            <a href="https://twitter.com/surajkumar1999_" target="_blank"><FaTwitter /></a>
-                            <a href="https://www.instagram.com/er.surajkumar1999_" target="_blank"><FaInstagram /></a>
-                            <a href="https://www.linkedin.com/in/er-suraj-kumar-69882a292" target="_blank"><FaLinkedinIn /></a>
-                            <a href="https://join.skype.com/invite/u1meLHjiUpMe" target="_blank"><FaSkype /></a>
-                            <a href="https://github.com/ersurajkumar1999" target="_blank"><FaGithub /></a>
+                            <a href="https://www.facebook.com/profile.php?id=61561559271304" target="_blank"><FaFacebook /></a>
+                            <a href="https://twitter.com/erprakash1999" target="_blank"><FaTwitter /></a>
+                            <a href="https://www.instagram.com/erchandraprakash1999" target="_blank"><FaInstagram /></a>
+                            <a href="https://www.linkedin.com/in/er-chandra-prakash-aa2257315" target="_blank"><FaLinkedinIn /></a>
+                            {/* <a href="https://join.skype.com/invite/u1meLHjiUpMe" target="_blank"><FaSkype /></a> */}
+                            <a href="https://github.com/erchandraprakash1999" target="_blank"><FaGithub /></a>
                         </div>
                     </div>
                     <div className="col-md-6 py-2 text-center text-md-end">

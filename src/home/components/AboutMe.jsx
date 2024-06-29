@@ -62,7 +62,7 @@ const AboutMe = ({ sectionsRefs }) => {
                                     </div>
                                     <div className="media">
                                         <label>Phone</label>
-                                        <p>+91 870 7673 327</p>
+                                        <p>+91 904 4928 112</p>
                                     </div>
                                     <div className="media">
                                         <label>Skype</label>

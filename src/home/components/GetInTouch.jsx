@@ -43,7 +43,7 @@ const GetInTouch = ({sectionsRefs}) => {
                                 </div>
                                 <div className="ps-3">
                                     <h6>Phone</h6>
-                                    <p>Phone: +91 870 7673 327<br />Phone: +91 870 7673 327</p>
+                                    <p>Phone: +91 904 4928 112<br />Phone: +91 904 4928 112</p>
                                 </div>
                             </div>
                         </div>
