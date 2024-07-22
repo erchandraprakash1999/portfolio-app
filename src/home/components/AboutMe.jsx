@@ -22,7 +22,7 @@ const AboutMe = ({ sectionsRefs }) => {
                                 <a href="https://x.com/erprakash1999" target="_blank"><FaTwitter /></a>
                                 <a href="https://www.instagram.com/erchandraprakash1999" target="_blank"><FaInstagram /></a>
                                 <a href="https://www.linkedin.com/in/er-chandra-prakash-aa2257315" target="_blank"><FaLinkedinIn /></a>
-                                {/* <a href="https://join.skype.com/invite/u1meLHjiUpMe" target="_blank"><FaSkype /></a> */}
+                                <a href="https://join.skype.com/invite/rU3VwQ7ia7pl" target="_blank"><FaSkype /></a>
                                 <a href="https://github.com/erchandraprakash1999" target="_blank"><FaGithub /></a>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ const AboutMe = ({ sectionsRefs }) => {
                                     </div>
                                     <div className="media">
                                         <label>Phone</label>
-                                        <p>+91 904 4928 112</p>
+                                        <p>+91 945 3928 078</p>
                                     </div>
                                     <div className="media">
                                         <label>Skype</label>
